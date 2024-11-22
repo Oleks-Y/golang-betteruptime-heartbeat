@@ -1,0 +1,1 @@
+worker: rabbitmq-betteruptime-go
